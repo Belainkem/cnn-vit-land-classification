@@ -90,8 +90,8 @@ The project includes comparative analysis of:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Belainkem/AI_Capstone_Project.git
-cd AI_Capstone_Project
+git clone https://github.com/Belainkem/cnn-vit-land-classification.git
+cd cnn-vit-land-classification
 ```
 
 2. Install required dependencies:
